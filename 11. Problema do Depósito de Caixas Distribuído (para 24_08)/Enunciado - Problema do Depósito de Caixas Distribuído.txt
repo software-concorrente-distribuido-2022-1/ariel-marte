@@ -1,0 +1,5 @@
+Problema do Depósito de Caixas Distribuído (para 24/08)
+
+Implemente o Exercício 2 da Tarefa de Threads de forma distribuída (produtores e consumidores posicionados em hosts distribuídos).
+Organizem-se em grupo para apresentação na aula de 24/08.
+Os grupos devem apresentar a solução na aula de 24/08.

@@ -1,0 +1,9 @@
+Atividades Problemas de Programação - rpc/rmi (para 24/08)
+
+Tarefa
+
+Implemente os enunciados usando RPC.
+Implemente os enunciados usando RMI.
+Enunciado no PDF anexo.
+
+Os fontes devem ser publicados no Github

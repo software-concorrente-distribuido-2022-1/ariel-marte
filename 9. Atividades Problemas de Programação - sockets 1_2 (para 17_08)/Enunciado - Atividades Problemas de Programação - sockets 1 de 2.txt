@@ -1,0 +1,7 @@
+Atividades Problemas de Programação - sockets 1/2 (para 17/08)
+Tarefa
+
+Implemente os enunciados usando uma arquitetura do tipo Iterativo.
+Implemente os enunciados usando a mesma linguagem para o cliente e o servidor.
+Enunciado no PDF anexo.
+Os fontes devem ser publicados no Github.

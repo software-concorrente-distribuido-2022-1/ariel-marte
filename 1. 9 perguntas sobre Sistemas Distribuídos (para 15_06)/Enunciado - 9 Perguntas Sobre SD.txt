@@ -1,0 +1,12 @@
+9 perguntas sobre Sistemas Distribuídos (para 15/06)
+
+
+    1 Apresente cinco tipos de recursos de hardware e cinco tipos de recursos de dados ou de software que podem ser compartilhados de forma útil. Dê exemplos práticos de  compartilhamento desses recursos  em sistemas distribuídos.
+    2  Considere diferentes estratégias para implementação de jogos online multi-player em grande escala. Quais as vantagens de se usar uma abordagem de servidor único para representar o estado do jogo?  Quais os problemas dessa abordagem e como poderiam ser resolvidos?
+    3 Compare e contraste o modelo de computação em nuvem com modelos mais tradicionais de computação cliente-servidor. Qual a novidade da computação em nuvem enquanto conceito?
+    4 Use a WWW como exemplo para ilustrar o conceito de compartilhamento de recursos usando o modelo cliente-servidor. Quais as vantagens e desvantagens do uso de HTML, URLs e HTTP como tecnologias de suporte para o compartilhamento de recursos na forma de navegação na Web?  Alguma dessas tecnologias é adequada para computação cliente-servidor de propósito geral?
+    5 Um programa servidor escrito em uma linguagem (C++, por exemplo) provê a implementação de um objeto que pode ser acessado por clientes escritos em linguagens diferentes (por exemplo, Java). Os  computadores clientes e servidores podem ter hardware diferente uns dos outros, mas todos estão conectados à Internet. Descreva os problemas decorrentes dos vários aspectos de heterogeneidade e  que precisam ser resolvidos para tornar possível a um objeto cliente chamar um método em um objeto servidor.
+    6 Discuta as possíveis falhas que podem ocorrer quando um processo cliente realiza uma chamada a um objeto servidor. O que pode ser feito para que o sistema seja tolerante a essas falhas?
+    7 Considere um processo servidor que mantém um objeto compartilhado, o qual pode ser acessado por vários clientes ao mesmo tempo. Que problemas ou “interferências" podem ocorrer ao se permitir a  execução concorrente de requisições de múltiplos clientes? Como prevenir essas interferências?
+    8 Considere um serviço que pode ser implementado por vários servidores replicados. Seria suficiente o uso de comunicação multicast das requisições dos clientes (para todos os servidores) para garantir a  sincronização do estado das réplicas? 
+    9 O uso de URLs em HTTP para identificar recursos possibilita transparência de localização? Explique.

@@ -1,0 +1,3 @@
+O que são microsserviços (para 15/06)
+Pessoal,
+Para esta atividade, assista ao vídeo https://turing.inf.ufg.br/mod/url/view.php?id=38477 e, para cada termo destacado durante o vídeo, descreva o conceito e a sua relação com o assunto tratado no nosso curso

@@ -1,0 +1,800 @@
+SUCESSO: 23:50:04.153150 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.156309 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.157754 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.159825 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.161090 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.161765 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.163058 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.163445 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.164043 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.168508 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.169310 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.169797 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.170906 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.175691 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.178511 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.199827 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.222396 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.225475 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.225963 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.226387 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.226903 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.228629 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.229227 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.234678 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.248499 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.252319 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.254677 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.255400 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.256892 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.258491 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.259003 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.260060 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.260531 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.262377 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.263 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.263349 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.264258 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.264933 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.265378 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.266703 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.267530 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.268789 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.269658 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.271921 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.274846 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.275716 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.276305 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.277603 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.278719 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.279125 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.279467 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.279809 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.280152 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.280597 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.280934 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.286133 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.288737 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.289458 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.292334 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.297942 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.316039 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.321394 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.323383 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.335857 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.337401 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.340853 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.345667 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.346393 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.346772 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.349188 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.359958 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.361456 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.362837 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.364339 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.365104 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.377635 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.379270 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.379630 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.379954 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.381308 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.382547 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.388084 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.389502 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.395002 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.396442 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.397447 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.397913 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.398380 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.511776 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.513013 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.522658 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.525456 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.526729 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.528029 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.528380 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.529146 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.529556 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.530060 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.530438 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.530783 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.531182 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.531819 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.532551 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.532963 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.533272 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.533659 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.534162 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.534697 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.535270 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.535857 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.536227 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.536832 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.545621 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.546339 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.546848 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.547715 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.548492 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.549300 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.550058 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.551228 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.556034 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.557338 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.558087 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.558855 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.559286 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.559924 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.560295 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.560847 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.562132 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.563019 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.563418 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.564925 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.565353 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.565661 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.566189 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.567039 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.569159 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.569960 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.571062 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.578952 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.581862 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.582814 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.584862 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.585420 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.585888 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.586439 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.587130 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.587577 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.588071 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.588578 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.589265 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.589759 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.590477 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.592679 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.597989 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.598789 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.599199 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.600091 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.600939 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.601314 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.601735 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.602573 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.604170 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.606696 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.609901 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.612276 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.612977 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.613324 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.613943 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.615208 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.616713 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.617157 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.617659 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.617914 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.618918 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.621348 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.622892 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.627484 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.633495 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.635134 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.635567 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.637469 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.638274 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.639237 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.640019 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.640517 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.641752 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.643378 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.644470 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.644912 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.645244 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.645588 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.646973 | Usuario: sophia | Operacao: VENDA LIVRO | Parametros operacao: Nome = O poder do habito
+SUCESSO: 23:50:04.647314 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.647676 | Usuario: helena | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = O poder do habito Edicao: 9
+SUCESSO: 23:50:04.651888 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.652382 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.652807 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.653643 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.654828 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.655505 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.656094 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.656812 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.657283 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.657827 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.658108 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.659306 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.659843 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.660481 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.660848 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.661407 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.661953 | Usuario: sophia | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 2
+SUCESSO: 23:50:04.662347 | Usuario: sophia | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mentirosos
+SUCESSO: 23:50:04.662660 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.663262 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.671440 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.671821 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.672211 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.672673 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.673182 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.673852 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.674156 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.674809 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.676111 | Usuario: theo | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:04.683253 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.706815 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.730083 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.731316 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.750122 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.762724 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.763324 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.764657 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.765001 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.765362 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.765843 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.766416 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.766985 | Usuario: arthur | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = 1984
+SUCESSO: 23:50:04.767289 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.767660 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.767992 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.768291 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.769053 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.769381 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.769640 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.769930 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.770248 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.770812 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.771215 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.771779 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.772743 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.773167 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.773452 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.774412 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.776070 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.777943 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.778371 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.778819 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.779197 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.779853 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:04.780632 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:04.782145 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.784191 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:04.876291 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.004357 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.006656 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.007058 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.010951 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.011761 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.012118 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.012874 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.013490 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.013805 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.014092 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.014954 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.015595 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.016872 | Usuario: miguel | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.017283 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.022045 | Usuario: laura | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:05.023766 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.024704 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.025515 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.026259 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.027385 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.028180 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.028777 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.029212 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.029911 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.030310 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.030795 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.031121 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.031600 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.032004 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.032462 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.037458 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.038182 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.038492 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.039105 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.039480 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.040818 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.049917 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.050504 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.051439 | Usuario: heitor | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = O poder do habito
+SUCESSO: 23:50:05.053260 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.053955 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.054991 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.055990 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.056507 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.057504 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.057813 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.058650 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.059684 | Usuario: laura | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Do mil ao milhao
+SUCESSO: 23:50:05.060256 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.060777 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.062115 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.062546 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.062895 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.067371 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.070864 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.073264 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.074543 | Usuario: alice | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = O poder do habito Edicao: 9
+SUCESSO: 23:50:05.076191 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.076822 | Usuario: arthur | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = O milagre da manha
+SUCESSO: 23:50:05.077787 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.078815 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.079092 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.079327 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.079988 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.080410 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.080642 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.081579 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.081837 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.082091 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.082312 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.083401 | Usuario: alice | Operacao: VENDA LIVRO | Parametros operacao: Nome = Os sete maridos
+SUCESSO: 23:50:05.083900 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.085232 | Usuario: helena | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mindset Edicao: 4
+SUCESSO: 23:50:05.087155 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.087744 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.087984 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.088233 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.088769 | Usuario: alice | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:05.100356 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.104931 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.105276 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.105640 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.107081 | Usuario: sophia | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mentirosos
+SUCESSO: 23:50:05.107519 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.107775 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.108423 | Usuario: arthur | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 4
+SUCESSO: 23:50:05.124974 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.128174 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.128595 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.129448 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.130375 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.130772 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.131208 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.131465 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.131808 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.132840 | Usuario: arthur | Operacao: VENDA LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:05.133695 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.134654 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.135869 | Usuario: helena | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 6
+SUCESSO: 23:50:05.138841 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.139903 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.141586 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.142771 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.143403 | Usuario: helena | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:05.143888 | Usuario: theo | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos
+SUCESSO: 23:50:05.144284 | Usuario: alice | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Os sete maridos
+SUCESSO: 23:50:05.145419 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.146258 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.147748 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.148125 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.177487 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.178814 | Usuario: davi | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = O milagre da manha
+SUCESSO: 23:50:05.179981 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.182697 | Usuario: laura | Operacao: VENDA LIVRO | Parametros operacao: Nome = O poder do habito
+SUCESSO: 23:50:05.183660 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.184398 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.185716 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.186483 | Usuario: alice | Operacao: VENDA LIVRO | Parametros operacao: Nome = O poder do habito
+SUCESSO: 23:50:05.187478 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.188147 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.190419 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.217486 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.290559 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.293565 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.295593 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.296048 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.299603 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.302100 | Usuario: arthur | Operacao: VENDA LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos
+SUCESSO: 23:50:05.302780 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.308338 | Usuario: miguel | Operacao: VENDA LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:05.335400 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.476542 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.478195 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.479119 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.479662 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.480313 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.482120 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.483948 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.484709 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.485437 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.487453 | Usuario: helena | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 5
+SUCESSO: 23:50:05.488572 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.489096 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.489442 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.489939 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.490413 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.490793 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.495203 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.573450 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.588879 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.589749 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.590133 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.590820 | Usuario: helena | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:05.591163 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.591445 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.593184 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.593734 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.594040 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.595521 | Usuario: laura | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre Edicao: 4
+SUCESSO: 23:50:05.596399 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.596654 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.597229 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.597704 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.598480 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.598920 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.599285 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.600007 | Usuario: heitor | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:05.600658 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.601217 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.601626 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.602063 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.602467 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.603035 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.603648 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.604346 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.605045 | Usuario: arthur | Operacao: VENDA LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:05.605542 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.605845 | Usuario: theo | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.606214 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.606791 | Usuario: theo | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 1
+SUCESSO: 23:50:05.607155 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.607390 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.607809 | Usuario: heitor | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = O poder do habito
+SUCESSO: 23:50:05.608184 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.608675 | Usuario: alice | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:05.609148 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.609473 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.610131 | Usuario: manuela | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = 1984
+SUCESSO: 23:50:05.637223 | Usuario: sophia | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:05.652915 | Usuario: laura | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mindset Edicao: 3
+SUCESSO: 23:50:05.660144 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.660541 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.672313 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.673318 | Usuario: heitor | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = O poder do habito
+SUCESSO: 23:50:05.675292 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.675630 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.689773 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.690296 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+FRACASSO: 23:50:05.735478 | Usuario: manuela | Operacao: INCLUIR LIVRO | Parametros operacao: Livro já Existente. Nome = Mindset Edicao: 3
+SUCESSO: 23:50:05.739137 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.739617 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.739930 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.740361 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.740657 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.740966 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.741631 | Usuario: manuela | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 5
+SUCESSO: 23:50:05.742065 | Usuario: heitor | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:05.742407 | Usuario: alice | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.742835 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.743168 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.743464 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.743974 | Usuario: helena | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:05.758514 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.761588 | Usuario: theo | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:05.764863 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.766179 | Usuario: miguel | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Os sete maridos
+SUCESSO: 23:50:05.786499 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.789154 | Usuario: helena | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Os sete maridos
+SUCESSO: 23:50:05.789551 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.790004 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.790355 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.790681 | Usuario: arthur | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:05.791246 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.799568 | Usuario: miguel | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:05.802876 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.804347 | Usuario: sophia | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mindset Edicao: 4
+SUCESSO: 23:50:05.805078 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.805466 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.805903 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.807488 | Usuario: helena | Operacao: VENDA LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:05.808688 | Usuario: davi | Operacao: VENDA LIVRO | Parametros operacao: Nome = O poder do habito
+SUCESSO: 23:50:05.809622 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.810438 | Usuario: miguel | Operacao: VENDA LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 4
+SUCESSO: 23:50:05.810893 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.811741 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.812554 | Usuario: alice | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre Edicao: 3
+SUCESSO: 23:50:05.814780 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.815510 | Usuario: theo | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:05.816257 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.817440 | Usuario: theo | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mindset Edicao: 0
+SUCESSO: 23:50:05.819756 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.820504 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.841211 | Usuario: laura | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.846329 | Usuario: davi | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Do mil ao milhao
+SUCESSO: 23:50:05.849182 | Usuario: laura | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = O milagre da manha
+SUCESSO: 23:50:05.850561 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.851013 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.852042 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.852575 | Usuario: heitor | Operacao: VENDA LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos
+SUCESSO: 23:50:05.853514 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.857288 | Usuario: manuela | Operacao: VENDA LIVRO | Parametros operacao: Nome = Os sete maridos
+SUCESSO: 23:50:05.863355 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.864179 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.864738 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.865018 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.865429 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.865886 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.866429 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.867028 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.867503 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.868268 | Usuario: laura | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Do mil ao milhao Edicao: 1
+SUCESSO: 23:50:05.868629 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.869614 | Usuario: laura | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:05.870370 | Usuario: davi | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:05.871127 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.873337 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.874283 | Usuario: heitor | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:05.875631 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.876323 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.876767 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.877062 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.877606 | Usuario: sophia | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado Edicao: 5
+SUCESSO: 23:50:05.878188 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.878592 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.878952 | Usuario: miguel | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:05.879355 | Usuario: miguel | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 4
+SUCESSO: 23:50:05.879851 | Usuario: helena | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:05.880279 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.881120 | Usuario: alice | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:05.881785 | Usuario: miguel | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = 1984 Edicao: 3
+SUCESSO: 23:50:05.884336 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.885682 | Usuario: helena | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:05.888070 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.888964 | Usuario: arthur | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Do mil ao milhao
+SUCESSO: 23:50:05.889677 | Usuario: arthur | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 4
+SUCESSO: 23:50:05.890787 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.891408 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.892130 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.892692 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.893503 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.894852 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.895385 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.896392 | Usuario: alice | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre Edicao: 4
+SUCESSO: 23:50:05.896686 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.898077 | Usuario: manuela | Operacao: VENDA LIVRO | Parametros operacao: Nome = Do mil ao milhao
+SUCESSO: 23:50:05.902144 | Usuario: theo | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mentirosos
+SUCESSO: 23:50:05.903620 | Usuario: laura | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mentirosos Edicao: 2
+SUCESSO: 23:50:05.903952 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.904272 | Usuario: miguel | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.904526 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.906970 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.907297 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.907628 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+FRACASSO: 23:50:05.944487 | Usuario: davi | Operacao: INCLUIR LIVRO | Parametros operacao: Livro já Existente. Nome = Mindset Edicao: 0
+SUCESSO: 23:50:05.946066 | Usuario: sophia | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mindset Edicao: 5
+SUCESSO: 23:50:05.985118 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.986774 | Usuario: heitor | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.987161 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.987456 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.987943 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.988334 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.988634 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.989116 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.989430 | Usuario: sophia | Operacao: VENDA LIVRO | Parametros operacao: Nome = O poder do habito
+SUCESSO: 23:50:05.990055 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:05.990627 | Usuario: manuela | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:05.991007 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.991351 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.991970 | Usuario: miguel | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = 1984 Edicao: 7
+SUCESSO: 23:50:05.993771 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:05.995739 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:05.996629 | Usuario: davi | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:05.997686 | Usuario: manuela | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = O milagre da manha Edicao: 7
+SUCESSO: 23:50:05.999169 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.000020 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:06.001638 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.002032 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.002531 | Usuario: heitor | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:06.003293 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.003969 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.006779 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.007934 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.008437 | Usuario: manuela | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:06.008898 | Usuario: sophia | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 2
+SUCESSO: 23:50:06.009635 | Usuario: arthur | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:06.010225 | Usuario: arthur | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = O poder do habito Edicao: 6
+SUCESSO: 23:50:06.010623 | Usuario: helena | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:06.011305 | Usuario: helena | Operacao: VENDA LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:06.011807 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.012578 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.013504 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.015653 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.019040 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.019613 | Usuario: miguel | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mentirosos
+SUCESSO: 23:50:06.034443 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.035500 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.036184 | Usuario: arthur | Operacao: VENDA LIVRO | Parametros operacao: Nome = 1984 Edicao: 3
+SUCESSO: 23:50:06.036820 | Usuario: davi | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Do mil ao milhao
+SUCESSO: 23:50:06.037146 | Usuario: alice | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:06.037430 | Usuario: manuela | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 5
+SUCESSO: 23:50:06.037715 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.038112 | Usuario: heitor | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado Edicao: 1
+SUCESSO: 23:50:06.038361 | Usuario: theo | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado Edicao: 1
+SUCESSO: 23:50:06.038553 | Usuario: alice | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:06.038859 | Usuario: laura | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:06.039208 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.039545 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.039882 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.040210 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.040607 | Usuario: theo | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:06.040861 | Usuario: davi | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:06.041172 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.041510 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.041863 | Usuario: laura | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:06.042346 | Usuario: sophia | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = O poder do habito
+SUCESSO: 23:50:06.042732 | Usuario: miguel | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:06.042939 | Usuario: heitor | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mentirosos
+SUCESSO: 23:50:06.043247 | Usuario: alice | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:06.043665 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.044025 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.044318 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.044653 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.044998 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.045437 | Usuario: alice | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Os sete maridos Edicao: 3
+SUCESSO: 23:50:06.045806 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.046163 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.046574 | Usuario: davi | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 4
+SUCESSO: 23:50:06.046952 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.047269 | Usuario: arthur | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = 1984 Edicao: 6
+SUCESSO: 23:50:06.047679 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.047956 | Usuario: miguel | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:06.048379 | Usuario: miguel | Operacao: VENDA LIVRO | Parametros operacao: Nome = 1984 Edicao: 7
+SUCESSO: 23:50:06.048806 | Usuario: laura | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos
+FRACASSO: 23:50:06.050758 | Usuario: davi | Operacao: INCLUIR LIVRO | Parametros operacao: Livro já Existente. Nome = 1984 Edicao: 3
+SUCESSO: 23:50:06.051387 | Usuario: helena | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre Edicao: 3
+SUCESSO: 23:50:06.051574 | Usuario: sophia | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mindset
+SUCESSO: 23:50:06.054909 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.055493 | Usuario: arthur | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Do mil ao milhao
+SUCESSO: 23:50:06.056854 | Usuario: manuela | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = 1984
+SUCESSO: 23:50:06.057475 | Usuario: manuela | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Do mil ao milhao
+SUCESSO: 23:50:06.057705 | Usuario: manuela | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = O milagre da manha
+SUCESSO: 23:50:06.058256 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.058671 | Usuario: arthur | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = O poder do habito Edicao: 0
+SUCESSO: 23:50:06.059653 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.059936 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.060144 | Usuario: arthur | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.060495 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.060727 | Usuario: sophia | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre Edicao: 4
+SUCESSO: 23:50:06.060964 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.061979 | Usuario: theo | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 8
+SUCESSO: 23:50:06.062993 | Usuario: arthur | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:06.064238 | Usuario: miguel | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.065923 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.068234 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.069401 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.071007 | Usuario: manuela | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = O milagre da manha Edicao: 7
+SUCESSO: 23:50:06.071488 | Usuario: manuela | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:06.071860 | Usuario: arthur | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = 1984 Edicao: 7
+SUCESSO: 23:50:06.072173 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.072362 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.072706 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.072959 | Usuario: helena | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado Edicao: 5
+SUCESSO: 23:50:06.073276 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.073548 | Usuario: laura | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado
+SUCESSO: 23:50:06.073802 | Usuario: heitor | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:06.074007 | Usuario: davi | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mentirosos
+SUCESSO: 23:50:06.074254 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.074524 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.074864 | Usuario: heitor | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mindset Edicao: 0
+SUCESSO: 23:50:06.075119 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.075343 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.075740 | Usuario: sophia | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 0
+SUCESSO: 23:50:06.076072 | Usuario: arthur | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:06.076403 | Usuario: manuela | Operacao: VENDA LIVRO | Parametros operacao: Nome = Do mil ao milhao Edicao: 1
+SUCESSO: 23:50:06.076692 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.076985 | Usuario: alice | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 6
+SUCESSO: 23:50:06.077298 | Usuario: sophia | Operacao: LOGIN | Parametros operacao: SENHA CORRETA
+SUCESSO: 23:50:06.077585 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.077896 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.078180 | Usuario: theo | Operacao: VENDA LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:06.078538 | Usuario: laura | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 5
+SUCESSO: 23:50:06.078864 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.079092 | Usuario: theo | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:06.079396 | Usuario: manuela | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre Edicao: 4
+SUCESSO: 23:50:06.079668 | Usuario: theo | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 0
+SUCESSO: 23:50:06.079947 | Usuario: helena | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado Edicao: 6
+SUCESSO: 23:50:06.080211 | Usuario: arthur | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = O poder do habito Edicao: 6
+SUCESSO: 23:50:06.080507 | Usuario: miguel | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Do mil ao milhao Edicao: 7
+SUCESSO: 23:50:06.080756 | Usuario: davi | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 4
+SUCESSO: 23:50:06.081015 | Usuario: theo | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 8
+SUCESSO: 23:50:06.081279 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.081513 | Usuario: davi | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = 1984 Edicao: 3
+SUCESSO: 23:50:06.081731 | Usuario: davi | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:06.081984 | Usuario: alice | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.082235 | Usuario: alice | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 2
+SUCESSO: 23:50:06.082466 | Usuario: miguel | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 8
+SUCESSO: 23:50:06.082746 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.083074 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.083335 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.083725 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.084183 | Usuario: miguel | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = O milagre da manha
+SUCESSO: 23:50:06.084644 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.085053 | Usuario: manuela | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre Edicao: 7
+SUCESSO: 23:50:06.085368 | Usuario: alice | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mentirosos Edicao: 2
+SUCESSO: 23:50:06.085735 | Usuario: sophia | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.086098 | Usuario: alice | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mindset Edicao: 3
+SUCESSO: 23:50:06.086731 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.087281 | Usuario: laura | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 6
+SUCESSO: 23:50:06.087675 | Usuario: heitor | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = O milagre da manha
+SUCESSO: 23:50:06.087894 | Usuario: helena | Operacao: VENDA LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre Edicao: 3
+SUCESSO: 23:50:06.088094 | Usuario: miguel | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = 1984 Edicao: 3
+SUCESSO: 23:50:06.088337 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.088606 | Usuario: heitor | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = 1984 Edicao: 3
+SUCESSO: 23:50:06.088929 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.089260 | Usuario: laura | Operacao: VENDA LIVRO | Parametros operacao: Nome = 1984
+SUCESSO: 23:50:06.089674 | Usuario: theo | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = O milagre da manha Edicao: 7
+SUCESSO: 23:50:06.090004 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.090328 | Usuario: miguel | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = 1984 Edicao: 7
+SUCESSO: 23:50:06.090598 | Usuario: helena | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.090958 | Usuario: miguel | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 3
+SUCESSO: 23:50:06.091411 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.091667 | Usuario: miguel | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mentirosos
+SUCESSO: 23:50:06.091885 | Usuario: heitor | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mentirosos
+SUCESSO: 23:50:06.092422 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.092644 | Usuario: davi | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:06.092973 | Usuario: sophia | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:06.093328 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.093579 | Usuario: laura | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.093775 | Usuario: davi | Operacao: VENDA LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre
+SUCESSO: 23:50:06.094024 | Usuario: sophia | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.094301 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.094581 | Usuario: sophia | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mindset Edicao: 5
+SUCESSO: 23:50:06.094858 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.095123 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.095322 | Usuario: theo | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.095582 | Usuario: davi | Operacao: VENDA LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 4
+SUCESSO: 23:50:06.095820 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.096048 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.096263 | Usuario: manuela | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.096503 | Usuario: heitor | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = O milagre da manha
+SUCESSO: 23:50:06.096922 | Usuario: laura | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Do mil ao milhao Edicao: 5
+SUCESSO: 23:50:06.097205 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.097410 | Usuario: laura | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos
+SUCESSO: 23:50:06.097700 | Usuario: arthur | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:06.097895 | Usuario: davi | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Mentirosos
+SUCESSO: 23:50:06.098126 | Usuario: heitor | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.098394 | Usuario: miguel | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mindset Edicao: 0
+FRACASSO: 23:50:06.101340 | Usuario: theo | Operacao: INCLUIR LIVRO | Parametros operacao: Livro já Existente. Nome = Torto Arado Edicao: 9
+SUCESSO: 23:50:06.101666 | Usuario: sophia | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = A Revolucao dos Bichos
+SUCESSO: 23:50:06.101981 | Usuario: davi | Operacao: VENDA LIVRO | Parametros operacao: Nome = O poder do habito Edicao: 0
+SUCESSO: 23:50:06.102314 | Usuario: helena | Operacao: VENDA LIVRO | Parametros operacao: Nome = Os sete maridos Edicao: 3
+SUCESSO: 23:50:06.102555 | Usuario: davi | Operacao: CONSULTAR LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.102785 | Usuario: helena | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = 1984
+SUCESSO: 23:50:06.103157 | Usuario: manuela | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 8
+SUCESSO: 23:50:06.103667 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.104651 | Usuario: arthur | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.105181 | Usuario: alice | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.105657 | Usuario: alice | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Mindset Edicao: 3
+SUCESSO: 23:50:06.106302 | Usuario: manuela | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Pai Rico, Pai Pobre Edicao: 8
+SUCESSO: 23:50:06.106582 | Usuario: heitor | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = O milagre da manha
+SUCESSO: 23:50:06.118234 | Usuario: laura | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.118847 | Usuario: laura | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 6
+SUCESSO: 23:50:06.119224 | Usuario: davi | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.119547 | Usuario: heitor | Operacao: VENDA LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 1
+SUCESSO: 23:50:06.158144 | Usuario: laura | Operacao: VENDA LIVRO | Parametros operacao: Nome = Mindset Edicao: 3
+SUCESSO: 23:50:06.160046 | Usuario: theo | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.160527 | Usuario: davi | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado Edicao: 1
+SUCESSO: 23:50:06.160883 | Usuario: sophia | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mindset Edicao: 7
+SUCESSO: 23:50:06.161159 | Usuario: sophia | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 0
+SUCESSO: 23:50:06.161441 | Usuario: sophia | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Do mil ao milhao
+SUCESSO: 23:50:06.161717 | Usuario: theo | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = O milagre da manha Edicao: 7
+SUCESSO: 23:50:06.161978 | Usuario: helena | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.162249 | Usuario: heitor | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 1
+SUCESSO: 23:50:06.162535 | Usuario: manuela | Operacao: CONSULTAR LIVROS DA LIVRARIA | Parametros operacao: id_livraria = 2
+SUCESSO: 23:50:06.163011 | Usuario: theo | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = O poder do habito Edicao: 0
+SUCESSO: 23:50:06.164090 | Usuario: arthur | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mindset Edicao: 3
+SUCESSO: 23:50:06.164512 | Usuario: heitor | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = O poder do habito Edicao: 0
+SUCESSO: 23:50:06.164765 | Usuario: alice | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Os sete maridos Edicao: 3
+SUCESSO: 23:50:06.165061 | Usuario: theo | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 4
+SUCESSO: 23:50:06.165241 | Usuario: alice | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Do mil ao milhao
+SUCESSO: 23:50:06.165508 | Usuario: manuela | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Os sete maridos Edicao: 5
+SUCESSO: 23:50:06.165753 | Usuario: helena | Operacao: INCLUIR LIVRO | Parametros operacao: Nome = Mentirosos Edicao: 7
+SUCESSO: 23:50:06.165987 | Usuario: davi | Operacao: EXCLUIR LIVRO | Parametros operacao: Nome = Torto Arado Edicao: 1
+SUCESSO: 23:50:06.167408 | Usuario: theo | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Torto Arado Edicao: 1
+SUCESSO: 23:50:06.168774 | Usuario: helena | Operacao: REPOSIÇÃO DE ESTOQUE | Parametros operacao: Nome = Os sete maridos Edicao: 3
+SUCESSO: 23:50:06.169039 | Usuario: manuela | Operacao: VENDA LIVRO | Parametros operacao: Nome = A Revolucao dos Bichos Edicao: 8
+SUCESSO: 23:50:06.169311 | Usuario: heitor | Operacao: VENDA LIVRO | Parametros operacao: Nome = 1984 Edicao: 6

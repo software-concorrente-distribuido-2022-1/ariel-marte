@@ -1,0 +1,4 @@
+==>> Concurrent CRUD Logger (para 03/08)
+
+Implementação de um CRUD Logger, conforme especificado na aula de 20/07.
+A entrega deve ser feita pelo seu Github.

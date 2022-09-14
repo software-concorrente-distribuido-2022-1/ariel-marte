@@ -1,0 +1,10 @@
+Atividades Problemas de Programação - sockets 2/2 (para 17/08)
+
+Tarefa
+
+Implemente os enunciados usando:
+uma arquitetura Servidor Concorrente;
+linguagens diferentes para o cliente e o servidor;
+Enunciado no PDF anexo.
+
+Os fontes devem ser publicados no Github.
